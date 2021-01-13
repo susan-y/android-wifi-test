@@ -1,0 +1,2 @@
+include ':wifisuggestion'
+rootProject.name='Android10Wifi'
